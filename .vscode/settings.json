@@ -1,8 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "FacebookLogin/selenium-server-4.1.2.jar",
-        "selenium-server-4.1.2.jar",
-        "c:\\Users\\RachelHendricks\\OneDrive - TBOL Limited\\Desktop\\QA\\VS Code Projects\\selenium-server-standalone.jar"
-    ]
-}
